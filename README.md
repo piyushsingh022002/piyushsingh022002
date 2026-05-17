@@ -1,65 +1,211 @@
-# Hi there 👋, I'm Piyush
+<div align="center">
 
-### 🚀 Student | Developer | Tech Enthusiast
+# Hi, I'm Piyush Singh 👋
 
-I love building projects, learning new technologies, and exploring software development.
+### Backend Engineer | React + ASP.NET Core Developer
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3BA4F2&center=true&vCenter=true&random=false&width=700&lines=Building+Scalable+Backend+Systems;ASP.NET+Core+%7C+React+TypeScript+Developer;Clean+Architecture+%7C+REST+APIs+%7C+SQL;Backend+Focused+Full+Stack+Engineer;Open+to+Product-Based+and+Remote+Opportunities" />
 
-## 🌟 About Me
+<p align="center">
+  <a href="mailto:workspace.piyush01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/piyushsingh02">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
 
-- 🎓 Student passionate about tech
-- 💻 Currently learning web development & programming
-- 🚀 Interested in AI, open source, and development
-- 🌱 Always learning something new
+  <a href="https://portfoliopiyushsingh.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel">
+  </a>
+</p>
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 💫 About Me
 
-![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushsingh022002&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsingh022002&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=piyushsingh022002&theme=tokyonight)
+- Backend-focused Full Stack Developer with hands-on experience building scalable enterprise and utility platforms.
+- Experienced in designing REST APIs, scalable backend architectures, authentication systems, and production-ready workflows.
+- Strong focus on clean architecture, maintainability, API performance, and real-world business logic implementation.
+- Worked across aviation operations systems, utility management platforms, and enterprise asset management solutions.
+- Comfortable working with cross-functional teams, backend design discussions, and scalable system structures.
+- Open to Product-Based, Startup, and Remote Opportunities.
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Tech Stack
 
-- 🚀 Awesome Project 1
-- 💡 Cool Project 2
-- 🎯 Interesting Project 3
+## Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,java,spring,python" />
+</p>
+
+## Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css" />
+</p>
+
+## Database & Caching
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+## Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,postman" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 🧠 Core Engineering Focus
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piyushsingh022002
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+```txt
+✔ ASP.NET Core Web APIs
+✔ Clean Architecture
+✔ Repository-Service Pattern
+✔ JWT Authentication & Authorization
+✔ RESTful API Design
+✔ SQL Query Optimization
+✔ Dapper & Entity Framework
+✔ MongoDB Caching
+✔ Swagger/OpenAPI
+✔ Dockerized Development
+✔ Frontend Integration
+✔ Production-Level Backend Design
+✔ Scalable System Design
+✔ Enterprise Workflow Management
+```
 
 ---
 
-## ✨ Fun Quote
+# 🏢 Enterprise & Professional Projects
 
-> “Code. Learn. Build. Repeat.”
+## ✈️ Aviation Company Management Platform
+
+### Overview
+Enterprise aviation operations platform used for managing international private jet trips, crew scheduling, customer services, and operational workflows.
+
+### Responsibilities
+- Built scalable backend services and APIs.
+- Managed operational business workflows.
+- Worked with scalable data handling systems.
+- Integrated enterprise-level database flows.
+- Designed maintainable frontend-backend communication structures.
+
+### Tech Stack
+`React TypeScript` `ASP.NET Core` `.NET` `SQL Server` `MongoDB` `Oracle`
+
+---
+
+## ⚡ SMRD Utility Management Portal
+
+### Overview
+Internal enterprise utility portal for managing and distributing meter-reading operations among field agents with scalable workflow management.
+
+### Responsibilities
+- Developed scalable frontend modules.
+- Integrated backend communication layers.
+- Improved data handling workflows.
+- Worked with enterprise operational structures.
+
+### Tech Stack
+`React JS` `Java Spring Boot`
+
+---
+
+## 🛡 Assets Information Web Portal
+
+### Overview
+Enterprise asset management platform for tracking issued assets, approvals, risk management, mitigation planning, and review systems.
+
+### Responsibilities
+- Frontend Development
+- System Architecture Decisions
+- API Structure Planning
+- Team Collaboration & Backend Coordination
+- Requirement Structuring
+
+### Tech Stack
+`React JS` `Python`
+
+---
+
+# 🚀 Featured Personal Project
+
+## 📌 RecoTrack
+
+Scalable full-stack web platform focused on structured workflow management, backend architecture, and production-ready development practices.
+
+### Key Highlights
+- ASP.NET Core MVC Architecture
+- Dapper Integration
+- SQL Server + MongoDB
+- JWT Authentication
+- Dockerized Development
+- Swagger API Testing
+- Repository-Service Pattern
+- Scalable Backend Structure
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=piyushsingh022002&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsingh022002&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushsingh022002&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Professional Goals
+
+- Building scalable backend systems with clean architecture.
+- Growing deeper into distributed systems and enterprise backend engineering.
+- Contributing to product-focused engineering teams.
+- Expanding expertise in scalable cloud-native application development.
+
+---
+
+# 📜 Certification
+
+- Microsoft C# Certification
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:workspace.piyush01@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/piyushsingh02">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfoliopiyushsingh.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Tenacious Full Stack Developer focused on building scalable backend systems with clean architecture."
+
+</div>
