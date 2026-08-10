@@ -1,243 +1,614 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Piyush%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20React%20%2B%20ASP.NET%20Core%20Developer&descAlignY=58&animation=fadeIn"/>
+# 👋 Hey, I'm Piyush Singh
+
+### Backend Engineer · .NET · API Architecture · Scalable Systems
+
+<p>
+  <strong>Building maintainable backend systems for complex real-world workflows.</strong>
+</p>
+
+<p>
+  ASP.NET Core&nbsp;&nbsp;•&nbsp;&nbsp;C#&nbsp;&nbsp;•&nbsp;&nbsp;REST APIs&nbsp;&nbsp;•&nbsp;&nbsp;SQL&nbsp;&nbsp;•&nbsp;&nbsp;MongoDB&nbsp;&nbsp;•&nbsp;&nbsp;Clean Architecture&nbsp;&nbsp;•&nbsp;&nbsp;System Design
+</p>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;ASP.NET+Core+%7C+React+TypeScript+Developer;Clean+Architecture+%7C+REST+APIs+%7C+SQL;Backend+Focused+Full+Stack+Engineer;Open+to+Product-Based+%26+Remote+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Backend+Engineer+focused+on+scalable+systems;Designing+clean%2C+maintainable+APIs;Working+with+enterprise+business+workflows;Optimizing+data-intensive+applications;Exploring+distributed+systems+%26+system+design" alt="Typing SVG" />
 
 <br/><br/>
 
-<a href="mailto:workspace.piyush01@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/piyushsingh02">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://portfoliopiyushsingh.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=piyushsingh022002&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](YOUR_GITHUB_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
 
 ---
 
-# 💫 About Me
+## 🧑‍💻 About Me
 
-```yaml
-Name: Piyush Singh
-Role: Backend Engineer
-Focus: Scalable Backend Systems & Clean Architecture
-Open To: Product-Based Companies | Startups | Remote Roles
+I'm **Piyush Singh**, a backend-focused Full Stack Developer with a strong interest in **scalable backend systems, API architecture, clean code, database performance, and enterprise application engineering**.
 
-Tech Interests:
-  - ASP.NET Core
-  - Distributed Systems
-  - API Architecture
-  - SQL Optimization
-  - Scalable System Design
-  - Enterprise Application Development
+I enjoy taking complicated business requirements and turning them into software that is:
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                    MY ENGINEERING MINDSET                   │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Simple       → Keep complexity where it belongs            │
+│  Maintainable → Make future changes predictable             │
+│  Scalable     → Design for growth, not just today's load    │
+│  Performant   → Respect data access and system resources    │
+│  Testable     → Separate responsibilities clearly           │
+│  Reliable     → Build predictable business workflows       │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-- Backend-focused Full Stack Developer with experience building scalable enterprise applications.
-- Experienced in designing REST APIs, backend workflows, authentication systems, and maintainable architectures.
-- Worked on aviation operations systems, utility management platforms, and enterprise asset management solutions.
-- Comfortable leading technical discussions, structuring APIs, and collaborating across frontend/backend teams.
+My professional experience includes working on systems across:
+
+* ✈️ **Aviation operations**
+* ⚡ **Utility management**
+* 🛡️ **Enterprise asset management**
+* 🔐 **Authentication and authorization**
+* 🔄 **Business workflow automation**
+* 🗄️ **Data-intensive enterprise applications**
+
+While I work comfortably across the stack, my strongest technical interest is **backend engineering**.
 
 ---
 
-# 🚀 Tech Stack
+# ⚡ Engineering Focus
 
 <div align="center">
 
-### Backend
-
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dapper-0C54C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge"/>
-
-<br/><br/>
-
-### Frontend
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<br/><br/>
-
-### Database & Caching
-
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<br/><br/>
-
-### Tools & Platforms
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+| 🧩 Area             | 🎯 Focus                                      |
+| :------------------ | :-------------------------------------------- |
+| **Backend**         | ASP.NET Core, C#, .NET, REST APIs             |
+| **Architecture**    | Clean Architecture, SOLID, Repository-Service |
+| **Data**            | SQL Server, Oracle, MongoDB                   |
+| **Data Access**     | Dapper, EF Core, Query Optimization           |
+| **Security**        | JWT, Authentication, Authorization            |
+| **API Engineering** | Swagger, OpenAPI, DTOs, API Contracts         |
+| **Frontend**        | React, TypeScript, JavaScript                 |
+| **Engineering**     | Docker, Git, GitHub, Postman                  |
+| **Growth**          | System Design, Distributed Systems            |
 
 </div>
 
 ---
 
-# 🧠 Engineering Expertise
+# 🛠️ Tech Stack
 
-<div align="center">
+### 💜 Backend
 
-| Backend | Architecture | Database | Frontend |
-|---|---|---|---|
-| ASP.NET Core APIs | Clean Architecture | SQL Optimization | React TypeScript |
-| JWT Authentication | Repository-Service Pattern | MongoDB Caching | Responsive UI |
-| Swagger/OpenAPI | Enterprise Workflows | Oracle & SQL Server | API Integration |
-| Dapper & EF Core | Scalable Design | Query Performance | State Management |
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,python" />
+</p>
 
-</div>
-
----
-
-# 🏢 Professional Experience Projects
-
-## ✈️ Aviation Company Management Platform
-
-### Overview
-Enterprise aviation operations platform managing international private jet trips, crew scheduling, customer workflows, and operational services.
-
-### Responsibilities
-- Developed scalable backend APIs and workflows.
-- Worked on operational business logic handling.
-- Integrated enterprise database communication flows.
-- Structured maintainable frontend-backend interactions.
-- Managed scalable data operations.
-
-### Tech Stack
-`React TypeScript` `ASP.NET Core` `.NET` `SQL Server` `MongoDB` `Oracle`
-
----
-
-## ⚡ SMRD Utility Management Portal
-
-### Overview
-Enterprise utility platform for managing and distributing meter-reading operations among internal field agents.
-
-### Responsibilities
-- Developed scalable frontend modules.
-- Integrated operational workflows.
-- Improved enterprise data handling structures.
-- Worked with scalable utility management systems.
-
-### Tech Stack
-`React JS` `Java Spring Boot`
-
----
-
-## 🛡 Assets Information Web Portal
-
-### Overview
-Enterprise platform for tracking issued assets, approvals, risk management, mitigation plans, and review systems.
-
-### Responsibilities
-- Frontend Development
-- System Structure Planning
-- API Response Structuring
-- Team Coordination
-- Architecture-Level Decisions
-
-### Tech Stack
-`React JS` `Python`
-
----
-
-# 🚀 Featured Personal Project
-
-## 📌 RecoTrack
-
-Scalable full-stack workflow management platform focused on backend architecture and production-level development practices.
-
-### Highlights
-
-```txt
-✔ ASP.NET Core MVC
-✔ JWT Authentication
-✔ SQL Server + MongoDB
-✔ Dapper Integration
-✔ Dockerized Development
-✔ Swagger API Testing
-✔ Repository-Service Pattern
-✔ Production-Oriented Architecture
+```text
+C#                  ████████████████████  Advanced
+ASP.NET Core        ████████████████████  Advanced
+.NET                ████████████████████  Advanced
+REST APIs           ████████████████████  Advanced
+Dapper              ██████████████████░░  Strong
+Entity Framework    ██████████████████░░  Strong
+JWT                 ██████████████████░░  Strong
+Swagger / OpenAPI   ██████████████████░░  Strong
 ```
 
+### ⚛️ Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css" />
+</p>
+
+* React
+* React TypeScript
+* JavaScript
+* API integration
+* State management
+* Responsive enterprise interfaces
+* Frontend/backend contract integration
+
+### 🗄️ Database & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+```text
+SQL Server
+Oracle
+MongoDB
+Dapper
+Entity Framework Core
+Query Optimization
+Relational Data Modeling
+Caching
+Data Access Performance
+```
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio" />
+</p>
+
 ---
 
-# 📊 GitHub Analytics
+# 🏗️ Architecture & Engineering Expertise
+
+My preferred approach is to keep **business logic independent from infrastructure details**.
+
+```text
+                    ┌───────────────────────┐
+                    │        CLIENT         │
+                    │ React / Web / Mobile  │
+                    └───────────┬───────────┘
+                                │
+                                ▼
+                    ┌───────────────────────┐
+                    │       API LAYER       │
+                    │ Controllers / DTOs    │
+                    │ Validation / Contracts│
+                    └───────────┬───────────┘
+                                │
+                                ▼
+                    ┌───────────────────────┐
+                    │    SERVICE LAYER      │
+                    │ Business Logic        │
+                    │ Workflows              │
+                    │ Application Rules      │
+                    └───────────┬───────────┘
+                                │
+                                ▼
+                    ┌───────────────────────┐
+                    │   REPOSITORY LAYER    │
+                    │ Data Access            │
+                    │ Query Execution        │
+                    └───────────┬───────────┘
+                                │
+                   ┌────────────┴────────────┐
+                   ▼                         ▼
+            ┌─────────────┐           ┌─────────────┐
+            │ SQL Server  │           │  MongoDB    │
+            │ / Oracle   │           │ / Cache     │
+            └─────────────┘           └─────────────┘
+```
+
+### Engineering principles I value
+
+* **SOLID principles**
+* **Separation of concerns**
+* **Dependency Injection**
+* **Loose coupling**
+* **Explicit API contracts**
+* **Clean business workflows**
+* **Reusable services**
+* **Performance-aware data access**
+* **Maintainable application boundaries**
+
+---
+
+# 🚀 Featured Projects
+
+## 🥇 RecoTrack
+
+### Scalable Workflow Management Platform
+
+**RecoTrack** is my primary personal project focused on building a backend with **production-oriented architecture and scalable development practices**.
+
+Rather than treating the application as a collection of CRUD endpoints, the project is structured around clear responsibilities between:
+
+```text
+                    RecoTrack
+                       │
+                       ▼
+               ┌───────────────┐
+               │ Authentication│
+               │   & Identity  │
+               └───────┬───────┘
+                       │
+                       ▼
+               ┌───────────────┐
+               │ API Layer     │
+               │ Controllers   │
+               │ DTOs          │
+               └───────┬───────┘
+                       │
+                       ▼
+               ┌───────────────┐
+               │ Service Layer │
+               │ Business Logic│
+               └───────┬───────┘
+                       │
+                       ▼
+               ┌───────────────┐
+               │ Repository    │
+               │ Data Access   │
+               └───────┬───────┘
+                       │
+                 ┌─────┴─────┐
+                 ▼           ▼
+             SQL Server    MongoDB
+```
+
+### 🔥 Technical Highlights
+
+| Capability          | Implementation       |
+| :------------------ | :------------------- |
+| Backend             | ASP.NET Core / C#    |
+| Authentication      | JWT                  |
+| Relational Database | SQL Server           |
+| NoSQL               | MongoDB              |
+| Data Access         | Dapper               |
+| API Documentation   | Swagger / OpenAPI    |
+| Architecture        | Repository + Service |
+| Development         | Docker               |
+| Application         | Full Stack           |
+
+### 🧠 What I'm Exploring Through RecoTrack
+
+* Backend architecture
+* Authentication flows
+* API design
+* Data access abstraction
+* SQL performance
+* Hybrid SQL + NoSQL architecture
+* Containerized development
+* Production-oriented project structure
+* Maintainability and extensibility
+
+> **RecoTrack represents the direction I want to go deeper into: backend architecture, scalable APIs, system design, and production engineering.**
+
+**Repository:** `ADD_REPO_LINK`
+
+---
+
+# ✈️ Aviation Company Management Platform
+
+### Enterprise Aviation Operations System
+
+An enterprise platform supporting operational workflows around **international private aviation**, including trip management, crew scheduling, customer workflows, and operational services.
+
+### 🔧 My Engineering Contributions
+
+* Developed backend APIs
+* Implemented operational business workflows
+* Worked with enterprise database communication
+* Structured frontend/backend interactions
+* Managed application data flows
+* Contributed to maintainable application architecture
+* Worked across multiple application technologies
+
+### 🏛️ Technology Landscape
+
+```text
+React + TypeScript
+        │
+        ▼
+ ASP.NET Core / .NET
+        │
+    ┌───┴────────────┐
+    ▼                ▼
+SQL Server        MongoDB
+    │
+    ▼
+Oracle / Enterprise Data
+```
+
+### Stack
+
+`React TypeScript` · `ASP.NET Core` · `.NET` · `SQL Server` · `MongoDB` · `Oracle`
+
+> **Engineering takeaway:** Working on aviation software exposed me to complex, interconnected operational workflows where correctness, maintainability, and data consistency are critical.
+
+---
+
+# ⚡ SMRD Utility Management Portal
+
+### Meter Reading & Field Operations Platform
+
+An enterprise utility management platform focused on **organizing and distributing meter-reading operations among internal field agents**.
+
+### 🔧 My Contributions
+
+* Developed frontend modules
+* Integrated operational workflows
+* Worked with enterprise APIs
+* Structured application data handling
+* Collaborated around business requirements
+* Improved frontend/backend integration
+* Worked with operationally driven application flows
+
+### Architecture
+
+```text
+              React JS
+                 │
+                 ▼
+          Application APIs
+                 │
+                 ▼
+          Java Spring Boot
+                 │
+                 ▼
+          Enterprise Data
+```
+
+### Stack
+
+`React JS` · `Java` · `Spring Boot`
+
+> **Engineering takeaway:** This project strengthened my understanding of workflow-driven enterprise applications and the importance of reliable communication between frontend and backend systems.
+
+---
+
+# 🛡️ Assets Information Web Portal
+
+### Enterprise Asset & Risk Management Platform
+
+A business-focused platform for managing **issued assets, approvals, risk management, mitigation plans, and review workflows**.
+
+### 🔧 My Contributions
+
+* Frontend development
+* Application structure planning
+* API response structuring
+* Business workflow implementation
+* Team coordination
+* Architecture-level discussions
+* Frontend/backend integration
+
+### Workflow Model
+
+```text
+              Asset
+                │
+       ┌────────┼────────┐
+       ▼        ▼        ▼
+   Assignment Approval   Risk
+                          │
+                          ▼
+                   Mitigation Plan
+                          │
+                          ▼
+                        Review
+                          │
+                          ▼
+                       Decision
+```
+
+### Stack
+
+`React JS` · `Python`
+
+> **Engineering takeaway:** This project strengthened my ability to work with business-heavy systems where software needs to represent real organizational processes and decisions.
+
+---
+
+# 📊 Engineering Capability Matrix
+
+| Domain                  | Technologies / Expertise                      |
+| :---------------------- | :-------------------------------------------- |
+| **Languages**           | C#, Java, Python, JavaScript, TypeScript      |
+| **Backend**             | ASP.NET Core, .NET, Spring Boot               |
+| **API**                 | REST, Swagger, OpenAPI                        |
+| **Authentication**      | JWT, Authorization                            |
+| **Architecture**        | Clean Architecture, Repository-Service, SOLID |
+| **ORM / Data Access**   | Dapper, Entity Framework Core                 |
+| **Databases**           | SQL Server, Oracle, MongoDB                   |
+| **Frontend**            | React, React TypeScript                       |
+| **DevOps / Tools**      | Docker, Git, GitHub                           |
+| **Testing / API Tools** | Swagger, Postman                              |
+| **Current Growth**      | System Design, Distributed Systems            |
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=piyushsingh022002&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsingh022002&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+# 🐍 My Contribution Journey
+
+<div align="center">
+
+<p>
+  <strong>Every contribution is a small step toward becoming a better engineer.</strong>
+</p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
+  />
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+ src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
+ alt="GitHub Contribution Snake Animation"
+/> </picture>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+### 🎓 Microsoft C# Certification
+
+Certified in **C# development**, reinforcing my foundation in object-oriented programming and the .NET ecosystem.
+
+<br/>
+
+### 🏢 Enterprise Application Experience
+
+Worked across:
+
+**Aviation · Utilities · Asset Management**
+
+<br/>
+
+### 🏗️ Backend Architecture Experience
+
+Hands-on experience with:
+
+**REST APIs · Business Workflows · Authentication · Data Access · Enterprise Systems**
+
+</div>
+
+---
+
+# 🧠 Engineering Interests
+
+I'm actively deepening my knowledge in areas that move me from **application development toward system engineering**.
+
+```text
+                    ┌─────────────────────┐
+                    │   Backend Engineering│
+                    └──────────┬──────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              ▼                ▼                ▼
+        API Architecture   Data Systems     System Design
+              │                │                │
+              ▼                ▼                ▼
+        Scalability        Performance     Distributed Systems
+              │                │                │
+              └────────────────┼────────────────┘
+                               ▼
+                    Production Engineering
+```
+
+### Currently Exploring
+
+* Distributed systems
+* Advanced ASP.NET Core
+* System design
+* API scalability
+* Database performance
+* Caching strategies
+* Asynchronous processing
+* Message-driven architectures
+* Observability
+* Cloud-native backend patterns
+
+---
+
+# 📚 What I Believe About Software
+
+> ### "Good software isn't only code that works. It's code that can survive change."
+
+I believe strong engineering is about balancing:
+
+```text
+Performance
+     +
+Maintainability
+     +
+Simplicity
+     +
+Reliability
+     +
+Scalability
+     =
+Better Software
+```
+
+The goal isn't to over-engineer every application.
+
+The goal is to understand **where complexity belongs**, isolate it, and build systems that remain understandable as they grow.
+
+---
+
+# 🎯 Career Direction
+
+I'm looking to grow into a **strong backend/system engineer** and contribute to product-focused teams solving meaningful technical problems.
+
+### I'm particularly interested in
+
+```text
+.NET Backend Engineering
+        ↓
+Scalable API Development
+        ↓
+Database & Performance Engineering
+        ↓
+System Design
+        ↓
+Distributed Systems
+        ↓
+Production-Grade Infrastructure
+```
+
+I'm especially interested in roles involving:
+
+**Backend Engineering · .NET · ASP.NET Core · System Design · Distributed Systems · Enterprise Platforms · Product Engineering**
+
+---
+
+# 🤝 Let's Build Something Meaningful
+
+<div align="center">
+
+If you're building something challenging around **backend systems, APIs, data, architecture, or scalable products**, I'd love to connect.
+
+<br/>
+
+<a href="YOUR_GITHUB_URL">
+<img src="https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=piyushsingh022002&theme=tokyonight&hide_border=true&border_radius=10"/>
+### 🚀 Build. Learn. Optimize. Repeat.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=120&section=footer"/>
 
 </div>
 
----
-
-# 🏆 Professional Goals
-
-- Building scalable backend systems with clean architecture.
-- Growing deeper into distributed systems engineering.
-- Working on enterprise-grade backend infrastructures.
-- Contributing to product-focused engineering teams.
-
----
-
-# 📜 Certification
-
-- Microsoft C# Certification
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="mailto:workspace.piyush01@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/piyushsingh02">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://portfoliopiyushsingh.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Tenacious Full Stack Developer focused on building scalable backend systems with clean architecture."
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+<!--
+╔═══════════════════════════════════════════════════════════════╗
+║                    PROFILE README                            ║
+║                                                               ║
+║ Replace these placeholders before publishing:                ║
+║                                                               ║
+║ YOUR_USERNAME       → Your GitHub username                    ║
+║ YOUR_GITHUB_URL     → Your GitHub profile URL                 ║
+║ YOUR_LINKEDIN_URL   → Your LinkedIn profile URL               ║
+║ YOUR_EMAIL          → Your professional email                 ║
+║ ADD_REPO_LINK       → RecoTrack repository URL                ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+-->
